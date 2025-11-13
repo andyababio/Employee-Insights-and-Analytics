@@ -1,5 +1,5 @@
 
-# 📊 DISC-CORP Workforce Analytics Dashboard (MySQL + Power BI)
+# 📊 Workforce Analytics and Insight
 
 ##  Project Overview
 This project demonstrates an end-to-end **data analytics workflow** focused on HR insights at **DISC-CORP**.  
